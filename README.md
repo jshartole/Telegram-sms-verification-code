@@ -79,3 +79,89 @@ Telegram 平台可以通过不同的方式将此代码发送给用户：
 Telegram 官方常见问题解答提到了两种就授权相关问题联系 Telegram 管理部门的方法。
 
 在“ [Telegram 支持](https://telegram.org/faq#telegram-support "电报支持")”部分，有一个指向[https://telegram.org/support](https://telegram.org/support)表格的链接，并注明“如果您无法登录您的帐户，请使用此表格。”
+
+## 如何在没有电话号码的情况下获取旧 Telegram 账户
+您可以使用以下任一方法来恢复旧的 Telegram 帐户，无需电话号码或短信验证码。
+
+### 方法一：扫描二维码
+
+如果您已经在智能手机上登录 Telegram，那么将新设备添加到 Telegram 中是一件轻而易举的事情。您可以扫描新设备上显示的二维码来登录您的 Telegram 帐户。
+
+以下是需要遵循的步骤：
+
+**步骤 1：**在已登录的手机上打开**Telegram应用程序。**
+
+**第 2 步：**点击左上角的**三条水平线，然后选择****“设置”**。
+
+[
+
+![电报应用程序设置](https://www.gizmochina.com/wp-content/uploads/2024/03/Telegram-app-settings-945x1024.png)
+
+](https://www.gizmochina.com/wp-content/uploads/2024/03/Telegram-app-settings-945x1024.png)
+
+**步骤3：**选择**设备**并点击**链接桌面设备**。
+
+[
+
+![在 Telegram 中链接新设备](https://www.gizmochina.com/wp-content/uploads/2024/03/Linking-a-new-device-in-Telegram-945x1024.png)
+
+](https://www.gizmochina.com/wp-content/uploads/2024/03/Linking-a-new-device-in-Telegram-945x1024.png)
+
+**步骤 4：**在您想要登录 Telegram 帐户的设备上访问[web.telegram.org 。](https://web.telegram.org/)
+
+**第 5 步：**使用您的智能手机扫描二维码。
+
+等待几秒钟让 Telegram 加载您的聊天和消息。
+
+### 方法 2：使用 Telegram 上收到的验证码
+
+如果您在设备上有一个活动的 Telegram 会话，那么即使您没有电话号码，也不必担心登录到其他设备。
+
+如果您已经登录Telegram账户，平台会在Telegram上发送验证码，您可以使用它在不同的设备上登录您的账户。
+
+**步骤 1：**在您想要登录帐户的设备上打开 Telegram 应用程序或[Telegram Web 。](https://web.telegram.org/)
+
+**第 2 步：**输入您的电话号码。
+
+**步骤 3：**检查您的 Telegram 帐户（您已登录的帐户）以获取验证码。
+
+**第四步：**输入验证码。
+
+您应该已经在新设备上登录了您的 Telegram 帐户。  
+
+### 方法 3：联系 Telegram 支持
+
+如果您无法使用旧电话号码，并且任何设备或浏览器上都没有登录 Telegram 会话，请联系[Telegram 支持](https://telegram.org/support)寻求帮助。
+
+联系 Telegram 支持人员进行帐户恢复更像是一种希望，而不是一种经过验证的方法。不要忘记提及可以验证您帐户真实性的详细信息；只有这样您才有机会恢复。
+
+## 避免将来丢失 Telegram 帐户的技巧
+
+**提示1：定期登录**
+
+如果您在特定时间内未登录 Telegram，Telegram 将自动删除您的帐户。默认情况下，此自毁计时器为 6 个月。但您最多可以将其设置为 1 年。因此，请定期使用您的 Telegram 帐户以避免自毁。
+
+如果您的 Telegram 帐户被自动删除，下次您尝试登录时将拥有一个新的 Telegram 帐户。您将丢失所有消息、照片、视频、群组和频道。
+
+**提示#2：保护您的电话号码**
+
+保护好您的电话号码至关重要。您可能会失去对许多应用和服务的访问权限，而不仅仅是 Telegram。 
+
+**提示#3：卸载前先在其他地方登录**
+
+如果您没有电话号码，最好在卸载 Telegram 应用程序或将设备恢复出厂设置之前在其他设备上登录您的 Telegram 帐户（使用[方法 1](https://www.gizmochina.com/how-to/get-old-telegram-account-without-phone-number/#Method_1_Scan_the_QR_Code)或[方法 2 ）。](https://www.gizmochina.com/how-to/get-old-telegram-account-without-phone-number/#Method_2_Use_the_Verification_Code_Received_on_Telegram)
+
+希望本指南能帮助您恢复旧 Telegram 帐户。您找回旧 Telegram 帐户了吗？请在下方评论中分享您的想法或任何问题（如果有）。
+
+## **常见问题解答：**
+
+**1\. 没有电话号码的情况下我怎样才能找回我的 Telegram？**
+
+您可以扫描二维码，在没有电话号码的其他设备上登录您的 Telegram 帐户。
+
+**2\. 如何访问我的旧电报账户？**
+
+您可以通过短信验证或扫描二维码轻松访问您的旧 Telegram 帐户。您可以使用活动会话在 Telegram 上获取验证码。
+
+
+
