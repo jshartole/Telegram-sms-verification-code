@@ -95,17 +95,13 @@ Telegram 官方常见问题解答提到了两种就授权相关问题联系 Tele
 
 [
 
-![电报应用程序设置](https://www.gizmochina.com/wp-content/uploads/2024/03/Telegram-app-settings-945x1024.png)
-
-](https://www.gizmochina.com/wp-content/uploads/2024/03/Telegram-app-settings-945x1024.png)
+![电报应用程序设置]
 
 **步骤3：**选择**设备**并点击**链接桌面设备**。
 
 [
 
-![在 Telegram 中链接新设备](https://www.gizmochina.com/wp-content/uploads/2024/03/Linking-a-new-device-in-Telegram-945x1024.png)
-
-](https://www.gizmochina.com/wp-content/uploads/2024/03/Linking-a-new-device-in-Telegram-945x1024.png)
+![在 Telegram 中链接新设备]
 
 **步骤 4：**在您想要登录 Telegram 帐户的设备上访问[web.telegram.org 。](https://web.telegram.org/)
 
@@ -149,7 +145,7 @@ Telegram 官方常见问题解答提到了两种就授权相关问题联系 Tele
 
 **提示#3：卸载前先在其他地方登录**
 
-如果您没有电话号码，最好在卸载 Telegram 应用程序或将设备恢复出厂设置之前在其他设备上登录您的 Telegram 帐户（使用[方法 1](https://www.gizmochina.com/how-to/get-old-telegram-account-without-phone-number/#Method_1_Scan_the_QR_Code)或[方法 2 ）。](https://www.gizmochina.com/how-to/get-old-telegram-account-without-phone-number/#Method_2_Use_the_Verification_Code_Received_on_Telegram)
+如果您没有电话号码，最好在卸载 Telegram 应用程序或将设备恢复出厂设置之前在其他设备上登录您的 Telegram 帐户使用[方法 1或[方法 2 ）
 
 希望本指南能帮助您恢复旧 Telegram 帐户。您找回旧 Telegram 帐户了吗？请在下方评论中分享您的想法或任何问题（如果有）。
 
