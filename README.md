@@ -85,7 +85,7 @@ Telegram 官方常见问题解答提到了两种就授权相关问题联系 Tele
 
 在“ [Telegram 支持](https://telegram.org/faq#telegram-support "电报支持")”部分，有一个指向[https://telegram.org/support](https://telegram.org/support)表格的链接，并注明“如果您无法登录您的帐户，请使用此表格。”
 
-## 如何在没有电话号码的情况下获取旧 Telegram 账户
+## 如何在没有电话号码的情况下[获取旧 Telegram 账户](https://github.com/facebookzhanghao/telegramzhanghaogoumai)
 您可以使用以下任一方法来恢复旧的 Telegram 帐户，无需电话号码或短信验证码。
 
 ### 方法一：扫描二维码
